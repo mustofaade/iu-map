@@ -1,0 +1,15 @@
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.list-address-drawer {
+  padding: 10px;
+
+  &:hover {
+    background-color: #f2f2f2;
+    cursor: pointer;
+  }
+}
